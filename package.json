@@ -5,6 +5,7 @@
   "author": "Adrien Bigler",
   "license": "ISC",
   "devDependencies": {
+    "async": "^2.1.5",
     "browser-sync": "^2.18.8",
     "gulp": "^3.9.1",
     "gulp-less": "2.0",
@@ -15,6 +16,9 @@
     "gulp-util": "^3.0.8",
     "pump": "^1.0.2",
     "run-sequence": "^1.2.2",
-    "async": "^2.1.5"
+    "spectre.css": "^0.2.14"
+  },
+  "dependencies": {
+    "gulp-less": "^2.0.3"
   }
 }
