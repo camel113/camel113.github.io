@@ -9,8 +9,10 @@
     <link rel="stylesheet" href="{{ "/assets/styles/main.css" | prepend: site.baseurl_root }}">
   </head>
   <body>
-  	<section class="container grid-960">
+  	<section class="container grid-480">
+  		{% include header.html %}
   		{{content}}
+  		{% include footer.html %}
   	</section>
   </body>
 </html>
