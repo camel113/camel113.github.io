@@ -10,6 +10,7 @@ var pump = require('pump');
 var runSequence  = require('run-sequence');
 var sourcemaps = require('gulp-sourcemaps');
 var path = require('path');
+const imagemin = require('gulp-imagemin');
 
 const base_path = './';
 var assetsDevDir = {
@@ -73,3 +74,8 @@ gulp.task('sass:critical', function () {
     .pipe(gulp.dest(includes))
     .pipe(reload({stream: true}));
 });
+gulp.task('imagemin', () =>
+  gulp.src('_images/*')
+    .pipe(imagemin())
+    .pipe(gulp.dest('images'))
+);
