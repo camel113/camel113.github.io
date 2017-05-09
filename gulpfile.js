@@ -28,6 +28,7 @@ var jekyllDir = {
   }
 };
 jekyllDir.assets.styles = jekyllDir.assets.path + 'styles/';
+includes = base_path + '/_includes';
 jekyllDir.jekyll = ['./*.html', '_posts/*', '_layouts/*', '_includes/*']
 
 // watch files for changes and reload
@@ -64,5 +65,11 @@ gulp.task('sass:prod', function () {
     .pipe(gulp.dest(jekyllDir.assets.styles))
     .pipe(gulp.dest(siteDir.assets.styles))
     .pipe(sourcemaps.write('./maps'))
+    .pipe(reload({stream: true}));
+});
+gulp.task('sass:critical', function () {
+  return gulp.src(assetsDevDir.styles)
+    .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+    .pipe(gulp.dest(includes))
     .pipe(reload({stream: true}));
 });
