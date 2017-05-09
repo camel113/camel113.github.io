@@ -30,7 +30,11 @@ header{
 	}
 }
 .post-overview{
-	margin-top: 20px;
+	display:block;
+	margin-top:20px;
+	&:hover{
+		text-decoration: none;
+	}
 	h1{
 		font-size:2rem;
 	}
@@ -49,4 +53,13 @@ footer{
     	text-decoration: none;
     }
   }
+}
+.single-post{
+	margin-top:20px;
+	h1{
+		font-size:2rem;
+	}
+	p{
+		margin-top: 10px; 
+	}
 }

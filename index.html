@@ -2,9 +2,13 @@
 layout: default
 ---
 <main>
-	<article class="post-overview">
-		<h1>Title</h1>
-	  <img src="assets/images/osx-yosemite-2.jpg" class="img-responsive" alt="" />
-	  <p>Descr</p>
-	</article>
+	{% for post in site.posts %}
+		<a href="{{post.url}}" class="post-overview">
+			<article>
+				<h1>{{post.title}}</h1>
+			  <img src="{{site.url}}/{{post.image}}" class="img-responsive" alt="" />
+			  {{post.excerpt}}
+			</article>
+		</a>
+	{% endfor %}
 </main>
