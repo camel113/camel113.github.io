@@ -19,6 +19,7 @@
     "spectre.css": "^0.2.14"
   },
   "dependencies": {
-    "gulp-less": "^2.0.3"
+    "gulp-less": "^2.0.3",
+    "spectre.scss": "0.0.1"
   }
 }
