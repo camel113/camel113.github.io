@@ -57,7 +57,7 @@ gulp.task('build:jekyll:watch', ['build:jekyll'], function(cb) {
   cb();
 });
 gulp.task('build', function(cb) {
-  runSequence(['sass:prod'],'build:jekyll',cb);
+  runSequence(['sass:prod','sass:critical'],'build:jekyll',cb);
 });
 gulp.task('sass:prod', function () {
   return gulp.src(assetsDevDir.styles)
