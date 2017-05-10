@@ -4,7 +4,11 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <style>{% include main.css %}</style>
+    {% if jekyll.environment == "production" %}
+      <style>{% include main.css %}</style>
+    {% else %}
+      <link rel="stylesheet" href="{{ "/assets/styles/main.css" | prepend: site.baseurl_root }}">
+    {% endif %}
   </head>
   <body>
   	<section class="container grid-480">

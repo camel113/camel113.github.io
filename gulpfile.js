@@ -76,6 +76,6 @@ gulp.task('sass:critical', function () {
 });
 gulp.task('imagemin', () =>
   gulp.src('_images/*')
-    .pipe(imagemin())
+    .pipe(imagemin([imagemin.jpegtran({progressive: true})]))
     .pipe(gulp.dest('images'))
 );
