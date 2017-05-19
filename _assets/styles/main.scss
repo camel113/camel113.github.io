@@ -60,6 +60,9 @@ footer{
 }
 .single-post{
 	margin-top:20px;
+	a.post-image{
+		display: block;
+	}
 	h1{
 		font-size:2rem;
 	}
