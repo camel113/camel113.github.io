@@ -11,6 +11,7 @@ var runSequence  = require('run-sequence');
 var sourcemaps = require('gulp-sourcemaps');
 var path = require('path');
 const imagemin = require('gulp-imagemin');
+var responsive = require('gulp-responsive');
 
 const base_path = './';
 var assetsDevDir = {
@@ -79,3 +80,19 @@ gulp.task('imagemin', () =>
     .pipe(imagemin([imagemin.jpegtran({progressive: true})]))
     .pipe(gulp.dest('images'))
 );
+gulp.task('resize', function () {
+  return gulp.src('_images/*.{png,jpg}')
+    .pipe(responsive({
+      '*.png': {
+        width: 480,
+        height: 250,
+        crop:true
+      },
+      '*.jpg': {
+        width: 480,
+        height: 250,
+        quality: 100
+      }
+    }))
+    .pipe(gulp.dest('images/dist'));
+});
