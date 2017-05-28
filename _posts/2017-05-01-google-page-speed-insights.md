@@ -9,7 +9,7 @@ Se positionner dans les premiers résultats peut s'avérer compliqué car il exi
 
 Pour s'assurer qu'un site est optimisé pour mobile et ordinateurs du point de vue de Google il y a à mon avis 2 outils indispensables. 
 
-[Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) permet de savoir si notre site s'affiche rapidement. Mon blog performe bien puisque il obtient le score de *98/100* en mobile et *100/100* sur ordinateur. J'ai donc respecté les principes d'optimisation technique (images, styles, scripts, etc.) préconisés que je ne développerai pas ici. Quelques améliorations sont encore possibles pour arriver au score parfait mais le temps d'investissement serait bien trop grand pour ce blog.
+[Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) permet de savoir si notre site s'affiche rapidement. Mon blog performe bien puisque il obtient le score de *97/100* en mobile et *100/100* sur ordinateur. J'ai donc respecté les principes d'optimisation technique (images, styles, scripts, etc.) préconisés que je ne développerai pas ici. Quelques améliorations sont encore possibles pour arriver au score parfait mais le temps d'investissement serait bien trop grand pour ce blog.
 
 [Mobile Friendly Test](https://search.google.com/search-console/mobile-friendly) vérifie à quel point un utilisateur sur mobile peut utiliser et interagir avec un site. Là aussi mon blog fait le job puisque je suis *mobile-friendly*.
 
