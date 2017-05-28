@@ -64,12 +64,14 @@ footer{
 		display: block;
 		img{
 			width: 200px;
-			height: auto;
+			height: 104px;
 			@media (min-width:320px){
 				width: 320px;
+				height: 167px;
 			}
 			@media (min-width:480px){
 				width: 480px;
+				height: 250px;
 			}
 		}
 	}
