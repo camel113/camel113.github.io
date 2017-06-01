@@ -1,15 +1,12 @@
 # Site settings
-title: "Foostats | Classements buteurs | Foot amateur Suisse"
-description: "Classements buteurs et équipes pour les championnats amateurs de football des cantons de Vaud et Fribourg"
+title: "Consultant et dévelopeur web basé à Lausanne et Yverdon"
+description: "Lead developer et chef de projet au sein du MEI à la HEIG-VD. Consultant et dévelopeur web indépendant."
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://www.footstats.ch" # the base hostname & protocol for your site
 url: "http://camel113.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 name: ""
 
-exclude: ["node_modules"]
+exclude: ["node_modules","readme.md"]
 gems:
   - jekyll-paginate
 

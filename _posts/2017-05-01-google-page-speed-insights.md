@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mon blog est Goolge friendly
+description: Comment optimiser son site à l'aide des outils fournis par Google
 image: images/speed-insights.jpg
 ---
 Google est le premier site de référencement en Suisse et dans bien des pays dans le monde. Si quelqu'un cherche à entrer en contact avec vous ou votre entreprise il y a une forte probabilité qu'il le fasse avec Google. Il est donc primordial de respecter certaines règles pour bien y figurer.
