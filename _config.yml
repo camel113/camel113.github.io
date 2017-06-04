@@ -10,6 +10,6 @@ exclude: ["node_modules","readme.md"]
 gems:
   - jekyll-paginate
 
-future: true
+future: false
 paginate: 12
 paginate_path: "/page:num/"
