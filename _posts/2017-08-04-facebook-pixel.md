@@ -12,6 +12,3 @@ Après ces premiers mois d’utilisation plusieurs utilisateurs m’ont fait par
 Pour répondre à tous ces besoins j’ai choisi de changer complètement de stratégie et opté pour le développement d’une PWA (Progressive Web App). Pour faire court, une PWA permet d’avoir un comportement presque similaire à celui d’une application native (iOS/Android) directement depuis le navigateur internet de votre smartphone. J’écrirai prochainement sur les avantages et inconvénients des PWA et pourquoi j’ai fait ce choix.
 
 Aujourd’hui plus de 350 utilisateurs sont inscrits sur la plateforme et une centaine de matchs ont pu être suivis en direct sur [live.footstats.ch](http://live.footstats.ch/). Ce concept innovant peut s’adapter à toutes sortes de sports. Le code source de mon application est open source et [disponible sur Github](https://github.com/camel113/livescore-client) et peut donc être repris et développé par n’importe qui.
-
-
-
