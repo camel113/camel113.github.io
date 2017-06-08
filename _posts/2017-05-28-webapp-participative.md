@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La première application de score en direct participative
+title: La première application participative de score en direct
 description: La webapp qui permet à tous les passionés du football amateur de partager le score en direct de leurs équipes favorites
 image: images/app-participative.jpg
 ---
