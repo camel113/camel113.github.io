@@ -1,0 +1,13 @@
+---
+layout: post
+title: Faire de la publicité efficacement sur Facebook
+description: Comment exploiter les différents outils publicitaire de Facebook pour ne pas dépenser son argent bêtement.
+image: images/facebook-ads.jpg
+---
+Construire sa présence sur Facebook, faire connaître sa marque et augmenter son potentiel de clients peut se faire gratuitement. Cependant pour atteindre des résultats significatifs il faudra être patient. Pour aller plus vite, Facebook offre un grand nombre de possibilités pour promouvoir sa page, augmenter le nombre de likes et d’attirer du trafic sur son site internet ou des clients dans son magasin ou son restaurant.
+ 
+Il est assez simple de commencer à créer des publicités sur Facebook. Il est par contre un peu plus compliqué de savoir comment bien exploiter les différents outils pour ne pas dépenser son argent bêtement.
+Je vais présenter ici les principales fonctionnalités et possibilités offertes par le réseau social sans trop entrer dans les détails techniques.
+Tout d’abord il faut savoir que l'on peut créer des publicités en fonction d’objectifs bien précis ; Augmenter sa réputation, atteindre un maximum de personnes, attirer du trafic sur un site, créer de l’engagement sur post, inciter l’installation d’un app, récupérer des adresse emails, vendre des produits ou attirer des personnes dans un établissement. Une fois votre objectif défini, il vous faudra définir une audience cible; homme/femme, tranche d’âge, centre d’intérêts, lieu de résidence, langue parlée etc. 
+Après cela, arrive l’étape du budget ou vous allez pouvoir définir un montant à dépenser par jour pendant X jours ou un montant global à dépenser pendant une période donnée. Pour terminer il vous reste à créer le contenu de votre publicité avec du texte et des images qui sauront séduire votre public cible.
+Il est facile de dépenser beaucoup d’argent sur Facebook sans trop de résultats. Un mauvais ciblage vous fera payer pour la diffusion de votre pub auprès d’un publique qui ne sera pas réceptif et susceptible d’interagir avec votre contenu. C’est pourquoi il est préférable de créer plusieurs publicités et de tester l’efficacité de chacune avec de petits montants pour investir ensuite plus d’argent sur les publicités efficaces. Pour mesurer cette efficacité Facebook offre plusieurs outils qui permettent de connaître par exemple le nombre de clicks sur un lien ou de téléchargement pour le nombre de personnes atteintes. Tout comme il est facile de connaître le coût par click sur un lien ou par téléchargement.
