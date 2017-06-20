@@ -6,6 +6,7 @@ image: images/facebook-ads.jpg
 ---
 Sur Facebook, développer sa réputation, faire connaître sa marque ou augmenter son potentiel de clients peut se faire gratuitement. Cependant pour atteindre des résultats significatifs il faudra être patient. Pour aller plus vite, Facebook offre un grand nombre de possibilités pour promouvoir sa page, augmenter le nombre de likes et attirer du trafic sur son site internet ou des clients dans son magasin ou son restaurant.
  
+
 Il est assez simple de commencer à créer des publicités sur Facebook. Il est par contre un peu plus compliqué de savoir comment bien exploiter les différents outils pour ne pas dépenser son argent bêtement.
 Je vais présenter ici les principales fonctionnalités et possibilités offertes par le réseau social sans trop entrer dans les détails techniques. N'hésitez pas à me contacter si vous souhaitez avoir plus d’informations.
 Tout d’abord il faut savoir que l'on peut créer des publicités en fonction d’objectifs bien précis ; Augmenter sa réputation, atteindre un maximum de personnes, attirer du trafic sur un site, créer de l’engagement (commentaires, partages, likes) sur un post, inciter l’installation d’un app, récupérer des adresse emails, vendre des produits ou attirer des personnes dans un établissement. Une fois votre objectif défini, il vous faudra définir une audience cible; homme/femme, tranche d’âge, centre d’intérêts, lieu de résidence, langue parlée etc. 
