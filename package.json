@@ -9,7 +9,7 @@
     "browser-sync": "^2.18.8",
     "gulp": "^3.9.1",
     "gulp-imagemin": "^3.2.0",
-    "gulp-less": "2.0",
+    "gulp-less": "^2.0.3",
     "gulp-responsive": "^2.7.0",
     "gulp-run": "^1.7.1",
     "gulp-sass": "^3.1.0",
@@ -21,7 +21,6 @@
     "spectre.css": "^0.2.14"
   },
   "dependencies": {
-    "gulp-less": "^2.0.3",
     "spectre.scss": "0.0.1"
   }
 }
