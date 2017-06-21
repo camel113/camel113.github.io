@@ -30,15 +30,10 @@ header{
 	}
 }
 .post-overview{
-	display:block;
 	margin-top:20px;
 	margin-bottom:40px;
 	text-decoration: none;
 	color: #000;
-	&:hover{
-		text-decoration: none;
-		color: #000;
-	}
 	h1{
 		font-size:2rem;
 	}
