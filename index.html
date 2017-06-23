@@ -5,7 +5,9 @@ layout: default
 	{% for post in site.posts %}
 		<article class="post-overview">
 			<h1>{{post.title}}</h1>
-		  <img src="{{site.url}}/{{post.image}}" class="post-image" alt="{{post.title}}" />
+			<div class="img-container">
+		  	<img src="{{site.url}}/{{post.image}}" class="post-image" alt="{{post.title}}" />
+		  </div>
 		  {{post.excerpt}}
 		  <a href="{{post.url}}" class="btn btn-primary">Continuer la lecture</a>
 		</article>

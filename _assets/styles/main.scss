@@ -58,18 +58,30 @@ footer{
 	width: 200px;
 	height: 104px;
 	@media (min-width:320px){
-		width: 320px;
+		width: 300px;
 		height: 167px;
 	}
 	@media (min-width:350px){
+		width: 330px;
+		height: 183px;
+	}
+	@media (min-width:370px){
 		width: 350px;
 		height: 183px;
 	}
 	@media (min-width:400px){
-		width: 400px;
+		width: 380px;
 		height: 209px;
 	}
+	@media (min-width:420px){
+		width: 400px;
+		height: 230px;
+	}
 	@media (min-width:440px){
+		width: 420px;
+		height: 230px;
+	}
+	@media (min-width:460px){
 		width: 440px;
 		height: 230px;
 	}
