@@ -3,7 +3,7 @@ title: "Consultant et dévelopeur web basé à Lausanne et Yverdon"
 description: "Lead developer et chef de projet au sein du MEI à la HEIG-VD. Consultant et dévelopeur web indépendant."
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://adrienbiglerch" # the base hostname & protocol for your site
+url: "http://adrienbigler.ch" # the base hostname & protocol for your site
 name: ""
 
 exclude: ["node_modules","readme.md"]
