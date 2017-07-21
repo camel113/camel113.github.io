@@ -6,7 +6,7 @@ image: images/staticgen.jpg
 ---
 Comme à mon habitude, il ne s’agit pas ici d’entrer dans les détails techniques mais simplement de développer mon point de vue sur une technologie, une idée ou un concept.
 
-Depuis quelques mois voir quelques années maintenant, les générateurs de sites statiques deviennent de plus en plus populaire. J’en veux pour preuve des sociétés comme Vox Media, Mailchimp, Sequoia Capital ou encore [Footstats](http://www.foostats.ch) ;-) qui ont toutes choisi de se tourner vers cette technologie. Au MEI, nous avons développé le site web des [Jeux Olympiques de la Jeunesse 2020](www.lausanne2020.com/fr/) avec [Jekyll](www.jekyllrb.com) qui est certainement [le générateur de sites statiques le plus populaire](https://www.staticgen.com/). Pour en savoir un peu plus sur ce projet, rendez-vous sur [cet excellent article](http://blog.comem.ch/2017/05/04/les-jeux-olympiques-du-code/) rédigé par le Professeur Daniel Rappo auquel j’ai contribué.
+Depuis quelques mois voir quelques années maintenant, les générateurs de sites statiques deviennent de plus en plus populaire. J’en veux pour preuve des sociétés comme Vox Media, Mailchimp, Sequoia Capital ou encore [Footstats](http://www.foostats.ch) ;-) qui ont toutes choisi de se tourner vers cette technologie. Au MEI, nous avons développé le site web des [Jeux Olympiques de la Jeunesse 2020](http://www.lausanne2020.com/fr/) avec [Jekyll](http://www.jekyllrb.com) qui est certainement [le générateur de sites statiques le plus populaire](https://www.staticgen.com/). Pour en savoir un peu plus sur ce projet, rendez-vous sur [cet excellent article](http://blog.comem.ch/2017/05/04/les-jeux-olympiques-du-code/) rédigé par le Professeur Daniel Rappo auquel j’ai contribué.
 
 ## Comment ça fonctionne
 
@@ -22,9 +22,9 @@ Mon site fonctionne grâce à Jekyll, vous êtes donc en train de consulter un s
 Il y a évidemment des cas où un CMS classique ou l'utilisation d'un framemork web seront plus appropriés. Les services offerts par des plateformes comme [Contentful](https://www.contentful.com) ou des outils comme [Prose.io](http://prose.io/) permettent aujourd’hui aux éditeurs de maintenir le contenu de site web statique facilement. La montée en puissance du concept JAMStack et les services d’hébergement comme [Netlify](https://www.netlify.com) laisse penser que les générateurs de sites statiques ont encore de beaux jours devant eux.
 
 Lise non exhausite de mes projets intégrant un générateur de sites statiques:
-* [Immocars](www.immocars.ch)
-* [Footstats](www.footstats.ch)
-* [adrienbigler](www.adrienbigler.ch)
-* [Carrosserie Alpina](www.carrosserie-alpina.ch)
+* [Immocars](http://www.immocars.ch)
+* [Footstats](http://www.footstats.ch)
+* [adrienbigler](http://www.adrienbigler.ch)
+* [Carrosserie Alpina](http://www.carrosserie-alpina.ch)
 
  
