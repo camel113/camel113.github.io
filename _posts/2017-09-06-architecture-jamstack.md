@@ -31,7 +31,7 @@ sku: HGW
 image: http://d.gr-assets.com/books/1422538855l/23158207.jpg
 ```
 
-Il vous reste ensuite à ajouter quelques lignes de Javascript et d’HTML dans votre code sources pour vous connecter à l’API Snipcart. Toutes la gestion du stock, des ventes et des fichiers se fera alors directement depuis l’interface en ligne (dans le cloud) de Snipcart.
+Il vous reste ensuite à ajouter quelques lignes de Javascript et d’HTML dans votre code source pour vous connecter à l’API Snipcart. Toutes la gestion du stock, des ventes et des fichiers clients se fera alors directement depuis l’interface en ligne (dans le cloud) de Snipcart.
 
 ## Mon avis
 J’ai personnellement exploité ce concept pour le site [Footstats](http://www.foostats.ch) avec lequel j’ai développé une boutique en ligne pour vendre des maillots. Mon exemple concret est très simplifié, mais la mise en place de Snipcart est extrêmement rapide et la gestion des stocks et l’administration est simplifiée au maximum. En une journée votre site peut se transformer en boutique en ligne pour autant que vous soyez prêt d’un point de vue logistique. Reste à savoir que Snipcart prend 2% sur chacune des transactions. Sur le court terme la solution Snipcart semble imbattable financièrement parlant. Sur le long terme par contre, l’utilisation d’autres solutions comme Magento ou Prestashop s’avèreront peut être plus rentable.
