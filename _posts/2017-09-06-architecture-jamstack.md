@@ -8,19 +8,19 @@ Le concept JAMstack semble prendre de plus en plus d’importance depuis quelque
 
 ## Qu'est-ce que le JAM de JAMstack signifie :
 
-JavaScript : La partie dynamique du site est gérée avec du Javascript côté client (browser).
-API’s : les bases de données deviennent des API’s réutilisables.
-Markup: le contenant et le contenu statique du site web est généré et déployé au préalable (Jekyll, React,…)
+* JavaScript: La partie dynamique du site est gérée avec du Javascript côté client (browser).
+* API’s: les bases de données deviennent des API’s réutilisables.
+* Markup: le contenant et le contenu statique du site web est généré et déployé au préalable (Jekyll, React,…)
 
 ## Un peu plus en détail
 
 Si vous ne comprenez rien à ce que je viens d’écrire je vais tenter de vous l’expliquer un peu mieux ici.
 
-Mon précédent article entrait en détail dans la partie M de JAMstack. Avec Jekyll on génère un site web avec des informations statiques. Si l’on souhaite rendre le contenu dynamique, il nous faut alors ajouter du code Javascript. Ce code va nous permettre de nous connecter à des bases de données distantes via des services que l’on appelle API’s. Ces API’s sont accessibles depuis n’importe où sur internet mais peuvent être protégée par différents moyens. Elles permettent par exemple de gérer les commentaires d’un article, d’autoriser les gens à se connecter à une partie admin ou encore d’intégrer un e-commerce.
+Mon précédent [article](/2017/07/21/generateurs-site-web-statique.html) entrait en détail dans la partie M de JAMstack. Avec Jekyll on génère un site web avec des informations statiques. Si l’on souhaite rendre le contenu dynamique, il nous faut alors ajouter du code Javascript. Ce code va nous permettre de nous connecter à des bases de données distantes via des services que l’on appelle API’s. Ces API’s sont accessibles depuis n’importe où sur internet mais peuvent être protégée par différents moyens. Elles permettent par exemple de gérer les commentaires d’un article, d’autoriser les gens à se connecter à une partie admin ou encore d’intégrer un e-commerce.
 
 ## Un exemple concret (très simplifié)
 
-Vous possédez un site web statique développé avec Jekyll et vous souhaitez y ajouter une boutique en ligne pour y vendre des livres. Pour mettre en place votre boutique, Snipcart propose un système e-commerce qui s’intègre directement sur votre site statique.
+Vous possédez un site web statique développé avec Jekyll et vous souhaitez y ajouter une boutique en ligne pour y vendre des livres. Pour mettre en place votre boutique, [Snipcart](https://snipcart.com/) propose un système e-commerce qui s’intègre directement sur votre site statique. 
 Pour commencer, vous devez décrire chacun de vos de livres à l’aide de fichiers markdown comme celui-ci.
 
 ```
