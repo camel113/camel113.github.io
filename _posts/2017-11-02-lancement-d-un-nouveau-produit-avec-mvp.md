@@ -26,7 +26,7 @@ J’ai choisi d’utiliser le même type de navigation et de design sur iOS et A
 
 En un week-end j’ai donc réussi à sortir une première version de mon application.
 
-![Footstats app](/images/footstats-app.jpg "Footstats App")
+<img src="/images/footstats-app.jpg" alt="Footstats App" class="post-image" />
 
 ## La communication et le retour utilisateur
 
