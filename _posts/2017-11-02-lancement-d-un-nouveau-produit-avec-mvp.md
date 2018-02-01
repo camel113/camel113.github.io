@@ -14,13 +14,13 @@ Les chiffres cités précédemment et mon ressentit m’ont donc poussé à dév
 
 ## React Native
 
-Pour mettre en pratique la stratégie MVP il me fallait donc choisir des technologies qui me permettaient de développer simplement une première version de mon application. Je me suis donc tourné vers [React Native](https://facebook.github.io/react-native/) qui est un framework de développement qui permet de développer des applications hybrides. En d’autres termes, avec ce type de framework, je peux développer une application pour Android et iOS avec le même code source plutôt qu’avec un code source pour chaque plateforme.
+Pour mettre en pratique la stratégie MVP il me fallait donc choisir des technologies qui me permettaient de développer simplement une première version de mon application. Je me suis donc tourné vers [React Native](https://facebook.github.io/react-native/) qui est un framework de développement qui permet de créer des applications hybrides. En d’autres termes, avec ce type de framework, je peux développer une application pour Android et iOS avec le même code source plutôt qu’avec un code source pour chaque plateforme.
 
 Il y a un peu plus d’une année j’avais déjà expérimenté cela avec [une application de score en direct pour le foot amateur](/2017/05/28/2017-05-28-webapp-participative). Je ne partais donc pas de zéro.
 
 ## L’application
 
-L’application développé ici consiste à afficher les classements équipes et buteurs pour chaque régions et ligues de Suisse. Il s’agit donc simplement d’afficher des listes de données que je récupère sur un service (API) existant que j'avais déjà développé pour le site footstats.ch
+L’application développée ici consiste à afficher les classements équipes et buteurs pour chaque régions et ligues de Suisse. Il s’agit donc simplement d’afficher des listes de données que je récupère sur un service (API) existant que j'avais déjà développé pour le site footstats.ch
 
 J’ai choisi d’utiliser le même type de navigation et de design sur iOS et Android car je constate que c’est une tendance actuelle. Des applications comme AirBnB sont très semblables voir similaires sur iOS et Android. React Native permet d’afficher certains éléments différemment sur iOS ou Android mais j’ai fait le choix de faire deux applications identiques pour le moment dans une logique de stratégie MVP.
 
@@ -33,3 +33,11 @@ En un week-end j’ai donc réussi à sortir une première version de mon applic
 Le concept MVP privilégie les utilisateurs de type « early adopter ». Comme son nom l’indique se sont les utilisateurs qui ont déjà témoigné un intérêt pour vos services ou vos produits. Je dispose déjà d’une liste d’environ 80 mails d’utilisateurs qui m’écrivent régulièrement sur footstats.ch pour me communiquer des erreurs dans les classements ou simplement pour me donner leurs avis. J’ai donc choisi de faire partir une newsletter vers ceux-ci afin de les informer de la sortie de ma nouvelle application. Les premiers retours utilisateurs ont été positifs et m’ont permis de faire quelques améliorations graphiques.
 
 Mon produit étant validé par les premiers utilisateurs, je vais pouvoir maintenant m’attaquer au « grand public ». Dans les prochaines semaines je vais tenter de faire connaître mon application de différentes manières (réseaux sociaux, blog, newsletter). Toutefois la sortie de cette application coïncide avec la fin de la saison régulière de football, le public cible sera peut-être un peu moins sensibles à mes annonces. Je donnerai les statistiques de téléchargement dans les prochaines semaines.
+
+### Mise à jour
+
+<img src="/images/footstats-app-2.jpg" alt="Footstats App mise à jour" class="post-image" />
+
+Au mois de janvier j'ai publié à plusieurs reprises des posts (non payants) sur les réseaux sociaux via la page Facebook et le compte Instagram Footstats.ch. L'application a été téléchargée plus de 250 fois (60% iOS, 40% Android). Avec le développement de cette application native, j'ai choisi de changer mon business model et d'expérimenter les achats intégrés. Au mois de janvier, je dénombre 28 achats intégrés (20 iOS, 8 Android).
+
+Ces chiffres sont plutôt encourageants puisqu'en moyenne [5% des utilisateurs d'applications procèdent à des achats intégrés](https://www.appsflyer.com/pr/new-report-global-app-spending-habits-finds-asian-consumers-spend-40-apps-rest-world/). Si on comptabilise chaque application comme étant un utilisateur, l'application Footstats possède une moyenne d'environ 11% d'utilisateurs payants.
