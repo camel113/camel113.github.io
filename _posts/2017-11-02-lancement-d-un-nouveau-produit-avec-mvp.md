@@ -43,5 +43,5 @@ Au mois de janvier j'ai publié à plusieurs reprises des posts (non payants) su
 
 Ces chiffres sont plutôt encourageants puisqu'en moyenne [5% des utilisateurs d'applications procèdent à des achats intégrés](https://www.appsflyer.com/pr/new-report-global-app-spending-habits-finds-asian-consumers-spend-40-apps-rest-world/). Si on comptabilise chaque application comme étant un utilisateur, l'application Footstats possède une moyenne d'environ 11% d'utilisateurs payants.
 
-#### Février 2018
+#### [Février 2018](#fevrier-2018)
 On se rapproche du début du deuxième tour. Habituellement les visites sur Footstats.ch augmentent drastiquement dès la mi-mars. Pour l'instant toujours aucune promotion payante. Au mois de février, l'application a été téléchargée plus de 270 fois (55% iOS, 45% Android). Côté achats intégrés on dénombre 13 transactions. Ces chiffres sont toujours aussi encourageants même si les statistiques Footstats collent maintenant avec [les standards|(https://www.appsflyer.com/pr/new-report-global-app-spending-habits-finds-asian-consumers-spend-40-apps-rest-world/).
