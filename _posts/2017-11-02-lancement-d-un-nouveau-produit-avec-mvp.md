@@ -38,6 +38,10 @@ Mon produit étant validé par les premiers utilisateurs, je vais pouvoir mainte
 
 <img src="/images/footstats-app-2.jpg" alt="Footstats App mise à jour" class="post-image" />
 
+#### Janvier 2018
 Au mois de janvier j'ai publié à plusieurs reprises des posts (non payants) sur les réseaux sociaux via la page Facebook et le compte Instagram Footstats.ch. L'application a été téléchargée plus de 250 fois (60% iOS, 40% Android). Avec le développement de cette application native, j'ai choisi de changer mon business model et d'expérimenter les achats intégrés. Au mois de janvier, je dénombre 28 achats intégrés (20 iOS, 8 Android).
 
 Ces chiffres sont plutôt encourageants puisqu'en moyenne [5% des utilisateurs d'applications procèdent à des achats intégrés](https://www.appsflyer.com/pr/new-report-global-app-spending-habits-finds-asian-consumers-spend-40-apps-rest-world/). Si on comptabilise chaque application comme étant un utilisateur, l'application Footstats possède une moyenne d'environ 11% d'utilisateurs payants.
+
+#### Février 2018
+On se rapproche du début du deuxième tour. Habituellement les visites sur Footstats.ch augmentent drastiquement dès la mi-mars. Pour l'instant toujours aucune promotion payante. Au mois de février, l'application a été téléchargée plus de 270 fois (55% iOS, 45% Android). Côté achats intégrés on dénombre 13 transactions. Ces chiffres sont toujours aussi encourageants même si les statistiques Footstats collent maintenant avec [les standards|(https://www.appsflyer.com/pr/new-report-global-app-spending-habits-finds-asian-consumers-spend-40-apps-rest-world/).
