@@ -48,3 +48,6 @@ On se rapproche du début du deuxième tour. Habituellement les visites sur Foot
 
 #### Mars 2018
 Le mois de Mars est synonyme de reprise dans la plupart des championnats amateurs en Suisse. Cela signifie pour l'application Footstats le début des choses sérieuses. Les chiffres de ce mois passé sont plutôt encourageants. On recense environ 600 téléchargements sur iOS et 350 sur Android. Du côté des achats intégrés, 82 au total (75% iOS, 25% Android). Chiffre intéressant, environ 8.6% des utilisateurs sont des utilisateurs payants si on comptabilise chaque téléchargement d'application comme étant un utilisateur.
+
+#### Avril 2018
+Les chiffres pour le mois d'avril sont clairement à la hausse. Au total, 1900 téléchargements et 170 achats intégrés. Autre statistique intéressante, les 3'200 utilisateurs actifs par mois.
