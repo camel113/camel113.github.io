@@ -34,7 +34,7 @@ Le concept MVP privilégie les utilisateurs de type « early adopter ». Comme
 
 Mon produit étant validé par les premiers utilisateurs, je vais pouvoir maintenant m’attaquer au « grand public ». Dans les prochaines semaines je vais tenter de faire connaître mon application de différentes manières (réseaux sociaux, blog, newsletter). Toutefois la sortie de cette application coïncide avec la fin de la saison régulière de football, le public cible sera peut-être un peu moins sensibles à mes annonces. Je donnerai les statistiques de téléchargement dans les prochaines semaines.
 
-### Mise à jour
+### Mises à jour
 
 <img src="/images/footstats-app-2.jpg" alt="Footstats App mise à jour" class="post-image" />
 
@@ -54,3 +54,8 @@ Les chiffres pour le mois d'avril sont clairement à la hausse. Au total, 1'900 
 
 #### Mai 2018
 La saison 2017/2018 se termine durant le mois de mai dans la majorité des régions. Pour ce qui représente certainement le dernier gros mois de cette saison, Footstats dénombre 1'550 téléchargements et 175 achats intégrés. Le nombre d'utilisateurs actifs par mois dépasse maintenant la barre des 4'000.
+
+#### Juin 2018 à Octobre 2018
+Après un été plutôt calme dû à l'absence de compétition, la saison 2018/2019 a débuté fin août. Pour cette nouvelle saison Footstats a fait peau neuve avec un tas de nouvelles statistiques disponibles pour chaque ligue. Les achats intégrés ont évolué, l'app propose maintenant des IAP (in app products) entre 2.- CHF et 5.- CHF. A mi-octobre l'app a franchi le seuil symbolique des 5'000 utilisateurs actifs 🎉.
+
+J'ai décidé de clore les mises à jour de cet article. Pour suivre l'évolution des chiffres de l'application, rendez-vous sur [mon profil LinkedIn](https://www.linkedin.com/in/adrien-bigler-6408a2a1/). 
