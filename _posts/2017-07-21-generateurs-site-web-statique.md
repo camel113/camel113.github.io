@@ -3,6 +3,7 @@ layout: post
 title: Les générateurs de sites statiques
 description: Comment et pourquoi utiliser les générateurs de sites statiques
 image: images/staticgen.jpg
+categories: [Tech]
 ---
 Comme à mon habitude, il ne s’agit pas ici d’entrer dans les détails techniques mais simplement de développer mon point de vue sur une technologie, une idée ou un concept.
 

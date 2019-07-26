@@ -3,6 +3,7 @@ layout: post
 title: Footstats - Le site dédié aux stats du foot amateur Suisse romand
 description: Footstats offre une grande variété de statistiques autour du football amateur. Début 2017 Footstats recense plus de 1'500 followers sur les réseaux sociaux et plus de 5'000 visiteurs uniques par semaine.
 image: images/footstats.jpg
+categories: [Tech]
 ---
 Depuis plus de deux ans je développe et tiens un [site/blog sur les statistiques dans le football amateur en Suisse romande](http://www.footstats.ch). Début 2017 Footstats recensait plus de 1'500 followers sur les réseaux sociaux et environ 5'000 visiteurs uniques par mois pour environ 20'000 pages vues.
 

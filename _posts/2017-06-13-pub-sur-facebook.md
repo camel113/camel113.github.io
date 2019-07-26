@@ -3,6 +3,7 @@ layout: post
 title: Faire de la publicité efficacement sur Facebook
 description: Comment exploiter les différents outils publicitaire de Facebook pour ne pas dépenser son argent bêtement.
 image: images/facebook-ads.jpg
+categories: [Tech]
 ---
 Sur Facebook, développer sa réputation, faire connaître sa marque ou augmenter son potentiel de clients peut se faire gratuitement. Cependant pour atteindre des résultats significatifs il faudra être patient. Pour aller plus vite, Facebook offre un grand nombre de possibilités pour promouvoir sa page, augmenter le nombre de likes et attirer du trafic sur son site internet ou des clients dans son magasin ou son restaurant.
  

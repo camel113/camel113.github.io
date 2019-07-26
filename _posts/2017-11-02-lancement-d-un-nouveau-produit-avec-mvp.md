@@ -3,6 +3,7 @@ layout: post
 title: Lancement d’un nouveau produit avec MVP
 description: Développer une application iOS et Android rapidement à l’aide de React Native.
 image: images/mvp.jpg
+categories: [Tech]
 ---
 La semaine dernière j’ai décidé de me lancer à nouveau dans le développement d’une petite application Footstats pour iOS et Android. Sur les 6 derniers mois, 80% du trafic sur [footstats.ch](https://www.footstats.ch/) provenait de téléphone mobile. 
 

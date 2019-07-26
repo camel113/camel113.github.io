@@ -3,6 +3,7 @@ layout: post
 title: L’architecture JAMstack
 description: Pourquoi et comment exploiter l'architecture JAMstack
 image: images/jamstack.jpg
+categories: [Tech]
 ---
 Le concept JAMstack semble prendre de plus en plus d’importance depuis quelques mois. L’architecture JAMstack permet de se débarrasser des liens souvent trop contraignants entre une base de données et un site web. Le principe de cette nouvelle architecture consiste à développer des sites/applications web plus performants, mieux sécurisés et plus simple à faire évoluer. 
 
