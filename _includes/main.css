@@ -2934,9 +2934,15 @@ footer .social-link:hover {
 }
 .single-post h1 {
   font-size: 2rem;
+  font-weight: 500;
 }
 .single-post h2 {
   font-size: 1.9rem;
+  font-weight: 500;
+}
+.single-post h3 {
+  font-size: 1.5rem;
+  font-weight: 500;
 }
 .single-post p {
   margin-top: 10px;
