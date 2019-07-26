@@ -9,7 +9,7 @@ To simplify development use [browsersync](https://www.browsersync.io) with this 
 
 Sass dev mode: `sass --watch _assets/styles/main.scss assets/styles/main.css --no-source-map` (while running browsersync)
 
-Sass prod mode: `sass  _assets/styles/main.scss _includes/main.css --no-source-map`
+Sass prod mode: `sass  _assets/styles/main.scss _includes/main.css --no-source-map --style compressed`
 
 _to_do_
 
