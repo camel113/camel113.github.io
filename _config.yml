@@ -1,6 +1,6 @@
 # Site settings
-title: "Consultant et dévelopeur web basé à Lausanne et Yverdon"
-description: "Lead developer et chef de projet au sein du MEI à la HEIG-VD. Consultant et dévelopeur web indépendant."
+title: "Développeur et consultant web & mobile - Freelance - Lausanne"
+description: "Développement de site internet, application mobile (iOS/Android), application web, site e-commerce, blog. Je réalise tous vos projets sur mesure et mets mes compétences à votre service"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://adrienbigler.ch" # the base hostname & protocol for your site
