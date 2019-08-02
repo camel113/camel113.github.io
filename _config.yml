@@ -9,8 +9,8 @@ name: ""
 exclude: ["node_modules","readme.md"]
 gems:
   - jekyll-paginate
+  - jekyll-redirect-from
 
 future: false
 paginate: 12
 paginate_path: "/page:num/"
-include: ["_redirects"]
