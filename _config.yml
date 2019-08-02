@@ -13,3 +13,4 @@ gems:
 future: false
 paginate: 12
 paginate_path: "/page:num/"
+include: ["_redirects"]
