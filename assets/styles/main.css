@@ -2914,6 +2914,19 @@ header .header-nav .toggle-mobile-nav {
 header .header-nav .navbar {
   flex-direction: column;
 }
+header .header-nav .navbar .social-links {
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 20px;
+}
+header .header-nav .navbar .social-links li {
+  margin: 0 10px;
+}
+@media (min-width: 400px) {
+  header .header-nav .navbar .social-links {
+    display: none;
+  }
+}
 @media (min-width: 400px) {
   header .header-nav .navbar {
     flex-direction: row;

@@ -42,6 +42,17 @@ header{
     }
     .navbar{
       flex-direction: column;
+      .social-links{
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 20px;
+        li{
+          margin: 0 10px;
+        }
+        @media (min-width:400px) {
+          display: none;
+        }
+      }
       @media (min-width:400px) {
         flex-direction: row;
       }
