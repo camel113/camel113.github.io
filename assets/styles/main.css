@@ -2866,6 +2866,10 @@ code {
   border-radius: 50%;
 }
 
+.nomade, .voyages, .contact {
+  margin-top: 20px;
+}
+
 header a, header a:hover {
   color: inherit;
   outline: 0;
@@ -2876,6 +2880,12 @@ header .site-title {
 }
 header .first-link {
   padding-left: 0;
+}
+header .active-link {
+  text-decoration: underline;
+}
+header .active-link:hover {
+  text-decoration: underline;
 }
 header .header-main {
   display: flex;

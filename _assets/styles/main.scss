@@ -1,4 +1,7 @@
 @import "../../node_modules/spectre.scss/spectre.scss";
+.nomade, .voyages, .contact{
+  margin-top: 20px;
+}
 header{
 	a,a:hover{
 	color: inherit;
@@ -11,6 +14,12 @@ header{
 	.first-link{
 		padding-left:0;
 	}
+  .active-link{
+    text-decoration: underline;
+    &:hover{
+      text-decoration: underline;
+    }
+  }
   .header-main{
     display: flex;
     width: 100%;

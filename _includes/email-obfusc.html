@@ -1,10 +1,9 @@
 <script>
   document.addEventListener("DOMContentLoaded", function(event) {
     const mails = document.getElementsByClassName('envelop')
-    console.log(mails)
     const mailAdress = new Array("adrienbigler","gmail.com").join("@");
     for(const mailto of mails){
-      mailto.setAttribute('href',mailAdress)
+      mailto.setAttribute('href',`mailto:${mailAdress}`)
     }
   })
 </script>
