@@ -2873,10 +2873,71 @@ header a, header a:hover {
 }
 header .site-title {
   display: block;
-  margin-top: 20px;
 }
 header .first-link {
   padding-left: 0;
+}
+header .header-main {
+  display: flex;
+  width: 100%;
+  align-items: baseline;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+header .header-main h1 {
+  font-size: 4rem;
+}
+@media (min-width: 400px) {
+  header .header-main {
+    font-size: 5rem;
+  }
+}
+header .toggle-mobile-nav {
+  background: 0 0;
+  border: 0;
+}
+header .icon-close, header .icon-burger {
+  fill: #50596c;
+}
+header .header-nav {
+  display: none;
+  flex-direction: column;
+}
+header .header-nav .toggle-mobile-nav {
+  align-self: flex-end;
+}
+header .header-nav .navbar {
+  flex-direction: column;
+}
+header .header-nav.open {
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  background: #fff;
+  width: 100%;
+  height: 100vh;
+  overflow: auto;
+  z-index: 1;
+}
+header .header-nav ul {
+  display: flex;
+  margin: 0;
+  list-style: none;
+  flex-direction: column;
+  align-items: center;
+}
+header .header-nav .btn.btn-link {
+  font-size: 1.8rem;
+}
+
+main {
+  position: relative;
 }
 
 .social-link {

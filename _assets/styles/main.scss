@@ -7,11 +7,69 @@ header{
 	}
 	.site-title{
 		display: block;
-		margin-top: 20px;
 	}
 	.first-link{
 		padding-left:0;
 	}
+  .header-main{
+    display: flex;
+    width: 100%;
+    align-items: baseline;
+    justify-content: space-between;
+    padding-top: 20px;
+    h1{
+      font-size: 4rem;
+    }
+    @media (min-width:400px) {
+      font-size: 5rem;
+    }
+  }
+  .toggle-mobile-nav{
+    background: 0 0;
+    border: 0;
+  }
+  .icon-close,.icon-burger{
+    fill:#50596c;
+  }
+  .header-nav{
+    display: none;
+    flex-direction: column;
+    .toggle-mobile-nav{
+      align-self: flex-end;
+    }
+    .navbar{
+      flex-direction: column;
+    }
+    &.open{
+      display: flex;
+      position: fixed;
+      top: 0;
+      left: 0;
+      padding-top: 30px;
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      background: #fff;
+      width: 100%;
+      height: 100vh;
+      overflow: auto;
+      z-index: 1;
+    }
+    ul{
+      display: flex;
+      margin:0;
+      list-style: none;
+      flex-direction: column;
+      align-items: center;
+    }
+    .btn.btn-link{
+      font-size: 1.8rem;
+    }
+  }
+}
+main{
+  position: relative;
 }
 .social-link{
   color: #999;

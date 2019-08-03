@@ -1,0 +1,11 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function(event) {
+    const toggles = document.getElementsByClassName('toggle-mobile-nav')
+    for(const toggle of toggles){
+      toggle.onclick = () => {
+        const navbar = document.getElementsByClassName('header-nav')[0]
+        navbar.classList.contains('open') ? navbar.classList.remove('open') : navbar.classList.add('open')
+      }
+    }
+  })
+</script>
