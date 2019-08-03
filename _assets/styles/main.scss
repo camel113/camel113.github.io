@@ -27,6 +27,9 @@ header{
   .toggle-mobile-nav{
     background: 0 0;
     border: 0;
+    @media (min-width:400px) {
+      display: none;
+    }
   }
   .icon-close,.icon-burger{
     fill:#50596c;
@@ -39,6 +42,9 @@ header{
     }
     .navbar{
       flex-direction: column;
+      @media (min-width:400px) {
+        flex-direction: row;
+      }
     }
     &.open{
       display: flex;
@@ -62,9 +68,18 @@ header{
       list-style: none;
       flex-direction: column;
       align-items: center;
+      @media (min-width:400px) {
+        flex-direction: row;
+      }
     }
     .btn.btn-link{
       font-size: 1.8rem;
+      @media (min-width:400px) {
+        font-size: 1.4rem;
+      }
+    }
+    @media (min-width:400px) {
+      display: flex;
     }
   }
 }
