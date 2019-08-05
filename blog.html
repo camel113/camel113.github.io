@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<main>
+  {% for post in site.categories.Tech %}
+    <article class="post-overview">
+      <h1>{{post.title}}</h1>
+      <div class="img-container">
+        <img src="{{site.url}}/{{post.image}}" width="480" height="250" class="post-image" alt="{{post.title}}" />
+      </div>
+      {{post.excerpt}}
+      <a href="{{post.url}}" class="btn btn-primary">Continuer la lecture</a>
+    </article>
+  {% endfor %}
+</main>
