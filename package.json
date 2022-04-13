@@ -5,7 +5,7 @@
   "author": "Adrien Bigler",
   "license": "ISC",
   "devDependencies": {
-    "async": "^2.1.5",
+    "async": "^3.2.2",
     "browser-sync": "^2.18.8",
     "gulp": "^3.9.1",
     "gulp-imagemin": "^3.2.0",
