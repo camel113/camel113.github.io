@@ -6,7 +6,7 @@
   "license": "ISC",
   "devDependencies": {
     "async": "^2.1.5",
-    "browser-sync": "^2.18.8",
+    "browser-sync": "^2.29.1",
     "gulp": "^3.9.1",
     "gulp-imagemin": "^3.2.0",
     "gulp-less": "^2.0.3",
